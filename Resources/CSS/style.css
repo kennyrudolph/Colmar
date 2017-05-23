@@ -1,0 +1,4 @@
+/* base font size for rems & ems */
+html, body {
+  font-size: 16px;
+}
